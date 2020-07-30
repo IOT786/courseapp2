@@ -2,7 +2,7 @@
   {
     "videoLession": [
       {
-        "name": "Basic tutorial for beginners",
+        "name": "bhi tutorial for beginners",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"
       },
       {
